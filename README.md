@@ -13,7 +13,7 @@ I am Shubham, a Fullstack Developer at [Mastcore Digital Services](https://www.m
 
 <ul>
   <li>🌱 I’m currently Work <strong> Angular, Node.js, MongoDB, and Express</strong></li>
-  <li>👨‍💻 All of my projects are available at <a href="https://github.com/shubhamdhapodkar?tab=repositories" target="_blank" rel="noopener noreferrer">My Portfolio</a></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://shubhamdhapodkar.github.io/portfolio/" target="_blank" rel="noopener noreferrer">My Portfolio</a></li>
   <li>💬 Ask me about <strong>Angular</strong></li>
   <li>📫 How to reach me <strong>dhapodkarshubham@gmail.com</strong></li>
 </ul>
