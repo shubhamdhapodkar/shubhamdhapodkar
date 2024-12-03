@@ -62,7 +62,7 @@ I am Shubham, a Fullstack Developer at [Mastcore Digital Services](https://www.m
 <div style="clear: both;"></div>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikeshsurkar&layout=compact&show_icons=true&locale=en" alt="Top Languages" width="45%" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdhapodkar&layout=compact&show_icons=true&locale=en" alt="Top Languages" width="45%" align="left" />
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamdhapodkar&show_icons=true&locale=en" alt="GitHub Stats" width="45%" align="right" />
 </p>
 
